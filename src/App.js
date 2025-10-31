@@ -26,9 +26,9 @@ function App() {
     about: "I'm a passionate BCA 2nd-year student with a deep interest in Data Science and Python programming. I love transforming raw data into meaningful insights and building analytical solutions. When I'm not coding or exploring datasets, you'll find me on the football field pursuing my other passion. Always eager to learn and grow in the field of data analytics and machine learning.",
     email: "deepanshukapri4@gmail.com",
     resume: "https://drive.google.com/file/d/YOUR-ID/view",
-    linkedin: "https://linkedin.com/in/deepanshukapri",
-    instagram: "https://instagram.com/deepanshukapri",
-    github: "https://github.com/deepanshukapri"
+    linkedin: "https://www.linkedin.com/in/deepanshu-kapri-2518a5384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "https://www.instagram.com/deepanshu_lifftsss.05?igsh=MjE2ZWJqNzBxNnMw",
+    github: "https://github.com/Deepanshu-8126"
   };
 
   const skills = [
